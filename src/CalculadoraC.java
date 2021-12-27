@@ -38,6 +38,7 @@ public class CalculadoraC {
 	 * @param num1 y num2 son los valores que van a entrar por teclado
 	 * @return Suma de dos numeros 
 	 * 
+	 * Modificación 
 	 */
 	public static double suma (double num1, double num2) {
 		
